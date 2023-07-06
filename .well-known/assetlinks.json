@@ -2,7 +2,7 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "com.moreharvest.moha",
+    "package_name": "com.moreharvest.moha.debug",
     "sha256_cert_fingerprints":
     ["14:3D:29:D9:86:48:0A:2A:BD:65:54:99:24:7D:C1:06:44:A5:DA:E6:80:58:A1:98:0F:AF:93:58:8A:95:2C:CC"]
   }
