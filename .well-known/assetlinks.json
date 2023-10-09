@@ -16,6 +16,19 @@
         ],
         "target": {
             "namespace": "android_app",
+            "package_name": "com.moreharvest.moha",
+            "sha256_cert_fingerprints": [
+                "52:AC:2F:18:84:A3:26:36:C3:6A:9A:F9:2D:DD:E9:9C:85:5D:3D:8C:9B:5E:F5:32:A1:77:BB:17:84:7A:B2:A1"
+            ]
+        }
+    },
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls",
+            "delegate_permission/common.get_login_creds"
+        ],
+        "target": {
+            "namespace": "android_app",
             "package_name": "com.moreharvest.moha.debug",
             "sha256_cert_fingerprints": [
                 "8C:E7:A9:EC:92:41:90:84:38:FD:6A:46:F2:77:4D:D7:D5:BD:1F:26:1A:24:56:09:7F:C8:F7:3A:A1:7F:E5:C8"
